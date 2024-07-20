@@ -1,0 +1,13 @@
+Get command - retrieving record
+
+
+
+{
+    "token": "90932196|-31949215867291122|90963509",
+    "cmd": "GET",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "jsonStr":{
+        "id": "1"
+    }
+}

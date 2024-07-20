@@ -1,0 +1,16 @@
+Remove command - delete a record
+
+
+
+
+
+{
+    "token": "90932196|-31949215867291122|90963509",
+    "cmd": "REMOVE",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+  "record" : 1,
+    "jsonStr":{
+  
+    }
+}
